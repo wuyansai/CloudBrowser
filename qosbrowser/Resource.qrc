@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>static/img/icontt.png</file>
+        <file>static/qss/default.qss</file>
+        <file>static/sql/login_info.sql</file>
+        <file>static/test/buckets1.json</file>
+        <file>static/test/buckets2.json</file>
+        <file>static/versions/config_default.json</file>
+        <file>static/test/business.json</file>
+        <file>static/test/custom.json</file>
+        <file>static/docs/errorcode.csv</file>
+        <file>static/configs/cosconfig.json</file>
+        <file>static/img/close1.png</file>
+        <file>static/img/close2.png</file>
+        <file>static/img/Maximize-1.png</file>
+        <file>static/img/Maximize-2.png</file>
+        <file>static/img/Maximize-3.png</file>
+        <file>static/img/Maximize-4.png</file>
+        <file>static/img/Minimize-1.png</file>
+        <file>static/img/Minimize-2.png</file>
+        <file>static/img/right.png</file>
+        <file>static/img/Delete-1.png</file>
+        <file>static/img/Delete-2.png</file>
+        <file>static/img/Quit-1.png</file>
+        <file>static/img/Quit-2.png</file>
+        <file>static/img/Search.png</file>
+        <file>static/img/Trans-1.png</file>
+        <file>static/img/Trans-2.png</file>
+        <file>static/img/上传.png</file>
+        <file>static/img/下载.png</file>
+        <file>static/img/bucket.png</file>
+        <file>static/img/dir.png</file>
+        <file>static/img/file.png</file>
+        <file>static/configs/default_config.json</file>
+        <file>static/img/icontt.ico</file>
+    </qresource>
+</RCC>
